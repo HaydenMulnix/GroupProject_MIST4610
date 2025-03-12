@@ -12,8 +12,7 @@ Group name:
 text here
 
 ## Data Model
-text here
-picture here
+![final_data_model](https://github.com/user-attachments/assets/02b19181-5384-462e-a551-1a46e1444fc7)
 
 ## Data Dictionary
 pictures here (x9)
