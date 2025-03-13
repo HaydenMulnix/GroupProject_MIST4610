@@ -22,76 +22,44 @@ Our Starbucks Database is designed to enhance the quality and efficiency of serv
 <img width="743" alt="image" src="https://github.com/user-attachments/assets/6b269516-9a1e-45b0-88fb-6233ad32ba10" />
 
 ## Simple Queries 
-1. 
-description
-    
-picture here
+1.     
 
 2. 
-description
-
-picture here
 
 3. 
-description
-
-picture here
 
 4. 
-description
-
-picture here
 
 ## Complex Queries
 1. 
-description
-    
-picture here
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/526e69b2-148b-4d7b-b97c-2abaa3b648a5" />
 
 2. 
-description
-
-picture here
+<img width="618" alt="image" src="https://github.com/user-attachments/assets/0b62881e-eca8-45dc-88f3-e3a957072479" />
 
 3. 
-description
-
-picture here
+<img width="672" alt="image" src="https://github.com/user-attachments/assets/fa89290d-a619-4158-ad47-4cb1ef8be3b8" />
 
 4. 
-description
-
-picture here
+<img width="1045" alt="image" src="https://github.com/user-attachments/assets/74ffd196-0d4c-4bab-8732-811e963d1228" />
 
 5. 
-description
-    
-picture here
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/54e9935a-e067-4528-a3b5-e3c04ad7e38e" />
 
 6. 
-description
-
-picture here
+<img width="868" alt="image" src="https://github.com/user-attachments/assets/0bd00d52-88af-405d-9dff-07ba59687ea8" />
 
 7. 
-description
-
-picture here
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/c0962d92-e129-44d4-8e05-67310397302f" />
 
 8. 
-description
-
-picture here
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/5a520fca-10ec-4f74-953c-07b80bca7eb2" />
 
 9. 
-description
-
-picture here
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/85dac5a9-6055-462c-a5fd-c7a41dd85588" />
 
 10. 
-description
-
-picture here
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/7a869950-73c8-411a-b5b8-5bd6207c6b95" />
 
 ## Database Information
 chart here
