@@ -9,8 +9,7 @@ Group name:
 4. Mulnix, Hayden
 5. Nguyen, Timmy
 ## Problem Discription 
-text here
-
+Our Starbucks Database depicts a database system to streamline the operations of our local college Starbucks. This database facilitates the management of key functions such as inventory control, sales tracking, products and brands, and employee management. Within this centralized data system, out database enhances operational efficiency, improves data accuracy, and provide valuable insights for informed decision-making for Grocery Store Management. Ultimately, the Grocery Store Database supports the store's goal of delivering an exceptional shopping experience while optimizing resources and maximizing profitability.
 ## Data Model
 ![final_data_model](https://github.com/user-attachments/assets/02b19181-5384-462e-a551-1a46e1444fc7)
 
