@@ -92,7 +92,7 @@ This query displays the employees name and id as well as how long they have work
 This query would prove to be beneficial to Starbucks management as it provides valuable insights into employee performance and experience. By displaying each employee's total sales alongside their tenure, managers can assess how experience correlates with sales performance. Employees with longer tenure may be expected to generate higher sales due to their familiarity with products and customer service skills. However, if newer employees are performing equally well or better, it could indicate strong training programs or highlight high-performing individuals who may be suited for leadership roles
 
 ## 5 
-<img width="647" alt="image" src="https://github.com/user-attachments/assets/54e9935a-e067-4528-a3b5-e3c04ad7e38e" />
+<img width="655" alt="image" src="https://github.com/user-attachments/assets/2fe9da71-dde9-4acb-9a94-caee72580cdc" />
 
 ## 6 
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/0bd00d52-88af-405d-9dff-07ba59687ea8" />
