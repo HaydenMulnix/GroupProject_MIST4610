@@ -31,8 +31,10 @@ By leveraging SQL queries, key business insights can be extracted, such as best-
 <img width="743" alt="image" src="https://github.com/user-attachments/assets/6b269516-9a1e-45b0-88fb-6233ad32ba10" />
 
 ## Simple Queries 
-1.     
+1. 
+Query 1 displays the receipt ids, total sale value, date of transaction, time of transaction, and employee ids
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/c0962d92-e129-44d4-8e05-67310397302f" />
+This query provides management insight on transactions during a specified date. Management can analyze how sale price fluctuates throughout the day, as well as the success or failure of certain employees during the day.
 
 2. 
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/5a520fca-10ec-4f74-953c-07b80bca7eb2" />
