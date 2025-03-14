@@ -37,14 +37,27 @@ Query 1 displays the receipt ids, total sale value, date of transaction, time of
 
 This query provides management insight on transactions during a specified date. Management can analyze how sale price fluctuates throughout the day, as well as the success or failure of certain employees during the day.
 
+
 2. 
+This query displays the total revenue of the Starbucks
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/5a520fca-10ec-4f74-953c-07b80bca7eb2" />
 
+Management is able to use this query as a flat numerical value to judge their performance, which can be useful on a broad scale. 
+
+
 3.
+This query lists the foods Starbucks has to offer, order by price in descending order.
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/85dac5a9-6055-462c-a5fd-c7a41dd85588" />
 
+This is helpful to management as they are able to identify which products would generate the most revenue. This allows managers to create target promotions to push high priced item.
+
+
 4. 
+This query lists each food item offered, and the ingredients included in that food. 
 <img width="588" alt="image" src="https://github.com/user-attachments/assets/7a869950-73c8-411a-b5b8-5bd6207c6b95" />
+
+Managers will be able to use this information to track ingredient usage, and ultimately reduce waste. This could also be used to forecast supply needs, as some ingredients may belong to 10+ items versus another ingredient might only belong to 1 or 2.
+
 
 ## Complex Queries
 1. 
