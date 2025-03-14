@@ -1,4 +1,3 @@
-# 
 # MIST_4610 Project 1
 Group name: 
 61608 Group 3
@@ -64,16 +63,33 @@ Managers will be able to use this information to track ingredient usage, and ult
 
 ## Complex Queries
 ## 1 
-![image](https://github.com/user-attachments/assets/d323e09b-a6f1-412a-b67d-391b1fe6ab02)
+This query displays the highest sold food item with the most ingredients.
+
+<img width="789" alt="image" src="https://github.com/user-attachments/assets/b15f4bbd-4c64-4347-8c6d-172673c77761" />
+
+This can be useful for management as they are able to clearly identify which food item is their best seller, but is costing them the most in terms of ingredients usage. This could lead management to search for alternative ingredient options that would allow for less waste and a greater profit margin.
+
 
 ## 2 
+This query displays side by side the food versus drink revenue.
+
 <img width="618" alt="image" src="https://github.com/user-attachments/assets/0b62881e-eca8-45dc-88f3-e3a957072479" />
 
+By breaking down revenue into food sales and drink sales, it allows management to compare performance between these categories.This query is a simple yet powerful tool for Starbucks management to track sales performance, optimize inventory, and improve marketing strategies by analyzing the contribution of food and drinks to overall revenue.
+
 ## 3 
+This query displays the drink name and the corresponding total time it has sold
+
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/fa89290d-a619-4158-ad47-4cb1ef8be3b8" />
 
+By counting the number of times each drink has been sold and organizing the results in descending order, management can quickly identify the most and least popular beverages. This insight helps in menu optimization, allowing decision-makers to determine which drinks should be promoted, discounted, or potentially removed from the menu
+
 ## 4 
+This query displays the employees name and id as well as how long they have worked at the starbucks and the total sales they have generated.
+
 <img width="1045" alt="image" src="https://github.com/user-attachments/assets/74ffd196-0d4c-4bab-8732-811e963d1228" />
+
+This query would prove to be beneficial to Starbucks management as it provides valuable insights into employee performance and experience. By displaying each employee's total sales alongside their tenure, managers can assess how experience correlates with sales performance. Employees with longer tenure may be expected to generate higher sales due to their familiarity with products and customer service skills. However, if newer employees are performing equally well or better, it could indicate strong training programs or highlight high-performing individuals who may be suited for leadership roles
 
 ## 5 
 <img width="647" alt="image" src="https://github.com/user-attachments/assets/54e9935a-e067-4528-a3b5-e3c04ad7e38e" />
