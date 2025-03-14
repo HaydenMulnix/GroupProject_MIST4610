@@ -64,7 +64,7 @@ Managers will be able to use this information to track ingredient usage, and ult
 
 ## Complex Queries
 ## 1 
-<img width="571" alt="image" src="https://github.com/user-attachments/assets/526e69b2-148b-4d7b-b97c-2abaa3b648a5" />
+![image](https://github.com/user-attachments/assets/d323e09b-a6f1-412a-b67d-391b1fe6ab02)
 
 ## 2 
 <img width="618" alt="image" src="https://github.com/user-attachments/assets/0b62881e-eca8-45dc-88f3-e3a957072479" />
@@ -82,7 +82,7 @@ Managers will be able to use this information to track ingredient usage, and ult
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/0bd00d52-88af-405d-9dff-07ba59687ea8" />
 
 ## Database Information
-chart here
+<img width="1051" alt="image" src="https://github.com/user-attachments/assets/d3ebd29d-7bf0-438b-a4ef-cdcca6793564" />
 
 
 
